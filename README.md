@@ -1,8 +1,8 @@
 # SANS Holiday Hack Challenge 2019
 ## Kringlecon 2 - Turtle Doves
 
-Homepage: https://holidayhackchallenge.com/2019/  \
-Writeup: https://kumaus.github.io/HHC2019-writeup/
+Writeup: https://kumaus.github.io/HHC2019-writeup/  \
+Homepage: https://holidayhackchallenge.com/2019/  
 
 ![Me and Santa](/img/intro/me_and_santa.png)
 
