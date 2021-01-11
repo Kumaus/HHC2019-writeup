@@ -1,9 +1,11 @@
 # SANS Holiday Hack Challenge 2019
 ## Kringlecon 2 - Turtle Doves
 
-Homepage: [https://holidayhackchallenge.com/2019/](https://holidayhackchallenge.com/2019/)
+Homepage: https://holidayhackchallenge.com/2019/  \
+Writeup: https://kumaus.github.io/HHC2019-writeup/
 
-Writeup: [https://kumaus.github.io/HHC2019-writeup/](https://kumaus.github.io/HHC2019-writeup/)
+![Me and Santa](/img/intro/me_and_santa.png)
 
-This was my first attempt to seriously participate in the HHC, and I was greatly honoured
-to have achieved a Super Honorable Mention for this writeup. 
+This was the first time for me to seriously participate in the HHC. I was greatly honoured
+that the writeup was given a **Super Honorable Mention**. SANS keeps the challenges online
+indefinitely, which makes HHC really great to sharpen your teeth even after the event.
